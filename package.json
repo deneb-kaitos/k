@@ -1,0 +1,19 @@
+{
+  "name": "@deneb-kaitos/k",
+  "version": "0.0.0",
+  "description": "kaufmann system",
+  "engines": {
+    "node": "=18.1.0",
+    "pnpm": "=7.1.0"
+  },
+  "engineStrict": true,
+  "volta": {
+    "node": "18.1.0"
+  },
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "keywords": [],
+  "author": "Dmitry N. Medvedev <dmitry.medvedev@gmail.com>",
+  "license": "MIT"
+}
