@@ -44,8 +44,12 @@ For details please see the [BACK-END.md](sources/back-end/BACK-END.md) file.
 
 here lives the main web application.
 
+For details please see the [FRONT-END.md](sources/front-end/FRONT-END.md) file.
+
 ### /sources/common
 
 ```bash
 ./libs # every single library that is used both in the back-end and in the front-end must live here
 ```
+
+For details please see the [COMMON.md](sources/common/COMMON.md) file.
