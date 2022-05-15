@@ -30,4 +30,4 @@ every single library lives here
 
 ## ./domains
 
-every business domain lives here. For now there are [api](sources/back-end/domains/api/API-DOMAIN.md), [token](sources/back-end/domains/token/TOKEN-DOMAIN.md), *user*-{[registration](sources/back-end/domains/user-registration/USER-REGISTRATION-DOMAIN.md), [authentication](sources/back-end/domains/user-authentication/USER-AUTHENTICATION-DOMAIN.md)}
+every business domain lives here. For now there are [api](domains/api/API-DOMAIN.md), [token](domains/token/TOKEN-DOMAIN.md), *user*-{[registration](domains/user-registration/USER-REGISTRATION-DOMAIN.md), [authentication](domains/user-authentication/USER-AUTHENTICATION-DOMAIN.md)}
